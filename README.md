@@ -7,7 +7,7 @@
 <p align="center">
 [](https://komarev.com/ghpvc/?username=Hamzalopode&color=red)
 <img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Hamzalopode#7830">
-<a href="https://www.linkedin.com/in/hamza-a-383610bb/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmouny Hamza" height="30" width="40">
+<a href="https://www.linkedin.com/in/hamza-a-383610bb/" target="blank"><img src="https://img.shields.io/static/v1?logo=linkedin" alt="Ahmouny Hamza" height="30" width="40">
 [LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/hamza-a-383610bb/)
 </p>
 
