@@ -4,7 +4,7 @@
 - 📫 How to reach me Hamzalopode[at]gmail[dot]com or via discord[with]Hamzalopode#7830
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=hamzalopode&color=red" alt="profilview">
+<img src="https://komarev.com/ghpvc/?username=hamzalopode&color=red&style=for-the-badge" alt="profilview">
 <img src="https://img.shields.io/badge/-Hamzalopode:7830-black.svg?style=for-the-badge&logo=discord&colorB=555" alt="Hamzalopode#7830">
 <a href="https://www.linkedin.com/in/hamza-a-383610bb/" target="blank"><img src="https://img.shields.io/badge/-HamzaAhmouny-black.svg?style=for-the-badge&logo=LinkedIn&colorB=555" alt="Hamzalopode#7830"></a>
 <a href="https://hamzalopode.itch.io/" target="blank"><img src="https://img.shields.io/badge/-Itch-black.svg?style=for-the-badge&logo=itch&colorB=555" alt="Itch"></a>
