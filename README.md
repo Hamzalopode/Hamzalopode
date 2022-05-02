@@ -9,8 +9,8 @@
 <img src="https://img.shields.io/static/v1?logo=discord&label=&message=Hamzalopode:7830&color=36393f&style=flat-square" alt="Hamzalopode#7830">
 </p>
 
-![Hamzalopode#7830](https://img.shields.io/badge/-Hamzalopode#7830-black.svg?style=for-the-badge&logo=discord&colorB=555)
-![Ahmouny Hamza](https://img.shields.io/badge/-Ahmouny Hamza-black.svg?style=for-the-badge&logo=LinkedIn&colorB=555)
+![Hamzalopode#7830](https://img.shields.io/badge/-Hamzalopode:7830-black.svg?style=for-the-badge&logo=discord&colorB=555)
+![Ahmouny Hamza](https://img.shields.io/badge/-HamzaAhmouny-black.svg?style=for-the-badge&logo=LinkedIn&colorB=555)
 ![Hamzalopode's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzalopode&count_private=true&hide=contribs,prs,issues,contribs,stars&theme=dark)
 
 
