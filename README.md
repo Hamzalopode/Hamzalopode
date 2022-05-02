@@ -7,11 +7,12 @@
 <img src="https://komarev.com/ghpvc/?username=hamzalopode&color=red" alt="profilview">
 <img src="https://img.shields.io/badge/-Hamzalopode:7830-black.svg?style=for-the-badge&logo=discord&colorB=555" alt="Hamzalopode#7830">
 <a href="https://www.linkedin.com/in/hamza-a-383610bb/" target="blank"><img src="https://img.shields.io/badge/-HamzaAhmouny-black.svg?style=for-the-badge&logo=LinkedIn&colorB=555" alt="Hamzalopode#7830"></a>
-<a href="https://hamzalopode.itch.io/" target="blank"><img src="https://img.shields.io/badge/-Itch-black.svg?style=for-the-badge&logo=Itch&colorB=555" alt="Itch"></a>
+<a href="https://hamzalopode.itch.io/" target="blank"><img src="https://img.shields.io/badge/-Itch-black.svg?style=for-the-badge&logo=itch&colorB=555" alt="Itch"></a>
 </p>
 
-![Hamzalopode's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzalopode&count_private=true&hide=contribs,prs,issues,contribs,stars&theme=dark)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hamzalopode&count_private=true&hide=contribs,prs,issues,contribs,stars&theme=dark" alt="stats">
+</p>
 
 
 
@@ -19,10 +20,6 @@
 Hamzalopode/Hamzalopode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## My games / art
-You can found some of my work on itch <a href="https://hamzalopode.itch.io/" target="blank"><img src="https://itch.io/static/images/itchio-square-144.png" alt="Itch" height="30" width="40"></a>
-
-
   
 
 <h3 align="left">Languages and Tools:</h3>
