@@ -10,7 +10,11 @@
 </p>
 
 ![Hamzalopode#7830](https://img.shields.io/badge/-Hamzalopode:7830-black.svg?style=for-the-badge&logo=discord&colorB=555)
-![Ahmouny Hamza](https://img.shields.io/badge/-HamzaAhmouny-black.svg?style=for-the-badge&logo=LinkedIn&colorB=555)(https://www.linkedin.com/in/hamza-a-383610bb/)
+
+<a href="https://www.linkedin.com/in/hamza-a-383610bb/" target="blank">
+![Ahmouny Hamza](https://img.shields.io/badge/-HamzaAhmouny-black.svg?style=for-the-badge&logo=LinkedIn&colorB=555)
+</a>
+
 ![Hamzalopode's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzalopode&count_private=true&hide=contribs,prs,issues,contribs,stars&theme=dark)
 
 
