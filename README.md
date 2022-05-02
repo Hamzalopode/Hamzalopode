@@ -13,7 +13,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzalopode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Hamzalopode's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzalopode&count_private=true)
+![Hamzalopode's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzalopode&count_private=true&hide=contribs,prs,issues,contribs,stars)
 
 <!---
 Hamzalopode/Hamzalopode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
