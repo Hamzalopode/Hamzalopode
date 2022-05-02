@@ -6,8 +6,7 @@
 
 
 <p align="center">
- ![view](https://komarev.com/ghpvc/?username=hamzalopode&color=red)
-<img src="https://img.shields.io/static/v1?logo=discord&label=&message=Hamzalopode#7830&color=36393f&style=flat-square" alt="Hamzalopode#7830">
+<img src="https://img.shields.io/static/v1?logo=discord&label=&message=Hamzalopode:7830&color=36393f&style=flat-square" alt="Hamzalopode#7830">
 </p>
 
 
