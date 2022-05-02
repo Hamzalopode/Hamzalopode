@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamzalopode, inde game dev, pixel artist and Discord bot dev.
 - 👀 I’m interested in Game Developement & Pixel Art.
 - 🌱 I’m currently learning Data science.
-- 📫 How to reach me Hamzalopode[at]gmail[dot]com or via discord[with]Hamzalopode#7830
+- 📫 How to reach me Hamzalopode@gmail.com or discord: Hamzalopode#7830
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=hamzalopode&color=red&style=for-the-badge" alt="profilview">
