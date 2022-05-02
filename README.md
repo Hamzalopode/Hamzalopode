@@ -2,10 +2,11 @@
 - 👀 I’m interested in Game Developement & Pixel Art.
 - 🌱 I’m currently learning Data science.
 - 📫 How to reach me Hamzalopode[at]gmail[dot]com or via discord[with]Hamzalopode#7830
+- ![](https://komarev.com/ghpvc/?username=hamzalopode&color=red)
 
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=Hamzalopode&color=red)
+
 <img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Hamzalopode#7830">
 </p>
 
