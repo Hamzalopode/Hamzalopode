@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hamzalopode, inde game dev, pixel artist and Discord bot dev.
+- 👋 Hi, I’m @Hamzalopode, inde game dev, pixel artist, Discord bot dev and software engineer.
 - 👀 I’m interested in Game Developement & Pixel Art.
 - 🌱 I’m currently learning Data science.
 - 📫 How to reach me Hamzalopode@gmail.com
