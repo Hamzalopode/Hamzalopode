@@ -10,10 +10,6 @@
 <a href="https://hamzalopode.itch.io/" target="blank"><img src="https://img.shields.io/badge/-itch.io-black.svg?style=for-the-badge&logo=itch.io&colorB=555" alt="Itch"></a>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hamzalopode&count_private=true&hide=contribs,prs,issues,contribs,stars&theme=dark" alt="stats">
-</p>
-
 
 
 <!---
